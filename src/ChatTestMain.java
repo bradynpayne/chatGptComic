@@ -25,7 +25,7 @@ public class ChatTestMain {
 
 
     public static void main(String[] args) throws IOException {
-        String apiKey = "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";
+        String apiKey = "APIKEY";
         String endpointUrl = "https://api.openai.com/v1/chat/completions";
 
         try {
